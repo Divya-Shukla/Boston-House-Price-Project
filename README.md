@@ -1,4 +1,4 @@
-<b> Boston-House-Price-Project </b>
+<b> Boston-House-Price-Project (Python) </b>
 
 - Predicted prices of boston houses 
 - Visualized and analyzed data by python
